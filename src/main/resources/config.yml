@@ -1,0 +1,18 @@
+cooldown-ticks: 60
+skull-velocity: 1.5
+wither-stick-name: "§5Wither Wand"
+custom-model-data: 1001
+unbreakable: false
+charged-skull: false
+sound-enabled: true
+sound-effect: "entity.wither.shoot"
+sound-volume: 1.0
+sound-pitch: 1.0
+
+messages:
+  no-player: "§cThis command can only be used by players!"
+  no-permission: "§cYou don't have permission to use this!"
+  received: "§aYou received a Wither Wand!"
+  cooldown: "§cWither Wand is on cooldown!"
+  launched: "§dWither Skull launched!"
+  error: "§cError launching wither skull!"

@@ -1,0 +1,18 @@
+name: WitherStick
+version: '1.0.0'
+main: gg.kite.core.Main
+api-version: '1.21'
+authors: [ KiteGG ]
+website: https://ks.akii.pro
+description: Allows players to shoot wither skulls using a special stick.
+
+commands:
+  witherstick:
+    description: Gives the player a Wither Wand
+    usage: /<command>
+    permission: witherstick.use
+
+permissions:
+  witherstick.use:
+    description: Allows use of the Wither Wand
+    default: op
